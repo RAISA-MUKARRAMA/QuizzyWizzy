@@ -2,7 +2,7 @@
 <resources>
     <!-- Primary Colors -->
     <color name="primary_color">#FF5722</color>
-    <color name="primary_dark_color">#E64A19</color>
+    <color name="primary_dark_color">#1953E6</color>
     <color name="secondary_color">#FFC107</color>
 
     <!-- Background Colors -->
